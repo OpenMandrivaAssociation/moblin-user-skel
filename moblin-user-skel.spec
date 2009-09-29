@@ -2,7 +2,7 @@ Name:           moblin-user-skel
 Version:        0.11
 Release:        %mkrel 1
 Summary:        Skel files for users on Moblin
-Group:          System Environment/Base
+Group:          System/Base
 License:        CC-BY
 URL:            http://www.moblin.org
 Source0:        http://git.moblin.org/cgit.cgi/%{name}/snapshot/%{name}-%{version}.tar.bz2
