@@ -1,5 +1,5 @@
 Name:           moblin-user-skel
-Version:        0.12
+Version:        0.13
 Release:        %mkrel 1
 Summary:        Skel files for users on Moblin
 Group:          System/Base
@@ -24,7 +24,7 @@ Populate the home directory for Moblin users.
 %{__cp} -r .kozo $RPM_BUILD_ROOT/etc/skel
 %{__cp} -r .local $RPM_BUILD_ROOT/etc/skel
 %{__cp} -r .gnome2 $RPM_BUILD_ROOT/etc/skel 
-%{__cp} -r .thumbnails $RPM_BUILD_ROOT/etc/skel 
+%{__cp} -r .bkl-thumbnails $RPM_BUILD_ROOT/etc/skel 
 %{__cp} -r .recently-used.xbel $RPM_BUILD_ROOT/etc/skel 
 
 %clean
