@@ -1,6 +1,6 @@
 Name:           moblin-user-skel
 Version:        0.13
-Release:        %mkrel 1
+Release:        %mkrel 2
 Summary:        Skel files for users on Moblin
 Group:          System/Base
 License:        CC-BY
