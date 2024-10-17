@@ -4,7 +4,7 @@ Release:        %mkrel 2
 Summary:        Skel files for users on Moblin
 Group:          System/Base
 License:        CC-BY
-URL:            http://www.moblin.org
+URL:            https://www.moblin.org
 Source0:        http://git.moblin.org/cgit.cgi/%{name}/snapshot/%{name}-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
